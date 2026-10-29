@@ -23,7 +23,7 @@ El programa fue probado y verificado con los siguientes casos de éxito:
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/logica-programacion-3.git](https://github.com/tu-usuario/logica-programacion-3.git)
+   git clone git@github.com:Zeth-DG/logica-programacion-3.git
     ```
 2. Abre el archivo index.html en tu navegador web o utiliza una extensión como Live Server en VS Code.
 3. Interactúa con el prompt que aparecerá en pantalla: ingresa un número en el campo de texto y haz clic en Enviar.
